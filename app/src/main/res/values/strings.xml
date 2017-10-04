@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mtbbank</string>
+    <string name="load_rate_info">Load Rates</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="departmens_button_text">Departmens</string>
+</resources>
